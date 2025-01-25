@@ -14,7 +14,7 @@
 
 这次的0.4版本将直接用控制台，虽然有些丑陋，但是启动速度快，代码好写。
 
-我也在Fandom上创建了一个wiki：https://carambola1437warehouse.fandom.com/zh/wiki/%E7%BB%B4%E5%98%89%E7%B4%A0%E6%9D%90%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7。
+我也在Fandom上创建了一个wiki：https://carambola1437warehouse.fandom.com/zh/wiki/%E7%BB%B4%E5%98%89%E7%B4%A0%E6%9D%90%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7
 
 **老版本的程序链接可能已经无法使用，请尽快更新。**
 
